@@ -60,3 +60,5 @@ The primary goal is to identify distinct customer groups for better customer ret
 
 By leveraging the insights gained through RFM analysis, this project provides actionable strategies for customer retention and targeted marketing efforts. Understanding customer segments enables the implementation of effective business strategies to maximize customer satisfaction and overall success.
 
+![Screenshot](image/download.png)
+
