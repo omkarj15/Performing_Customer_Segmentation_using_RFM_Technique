@@ -32,6 +32,11 @@ The primary goal is to identify distinct customer groups for better customer ret
 
 ## Interpretation
 
+![Screenshot](image/Pie_Bisiness.png)
+
+![Screenshot](image/newplot.png)
+
+
 ### Pareto Principle (80/20 Rule)
 
 - **Observation:** 29% of customers contribute to 77% of business.
